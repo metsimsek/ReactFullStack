@@ -41,19 +41,19 @@ Create a Development Environment for Node and React
 
   	dist/
 	
-    		main.js
+    	main.js
 		
   	src/
 	
-    		index.js
+    	index.js
 		
-    		components/
+    	components/
 		
-      			App.js
+      		App.js
 			
-    		server/
+    	server/
 		
-      			server.js
+      		server.js
 			
       
 5. Configure Webpack and Babel
