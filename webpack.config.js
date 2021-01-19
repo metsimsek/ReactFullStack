@@ -1,7 +1,4 @@
 module.exports = {
-  entry: {
-    main: __dirname + '\\index.js'
-  },
   module: {
     rules: [
       {
